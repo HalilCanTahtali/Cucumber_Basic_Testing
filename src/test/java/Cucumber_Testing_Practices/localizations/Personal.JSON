@@ -1,0 +1,28 @@
+{
+  "users":[
+    {
+      "mail": "mail1@gmail.com",
+      "password": "password1"
+    },
+    {
+      "mail": "mail2@gmail.com",
+      "password": "password2"
+    },
+    {
+      "mail": "mail3@gmail.com",
+      "password": "password3"
+    },
+    {
+      "mail": "mail4@gmail.com",
+      "password": "password4"
+    },
+    {
+      "mail": "mail5@gmail.com",
+      "password": "password5"
+    },
+    {
+      "mail": "mail6@gmail.com",
+      "password": "password6"
+    }
+  ]
+}
